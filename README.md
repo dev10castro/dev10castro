@@ -1,68 +1,61 @@
-# 👨‍💻 David Castro Soriano
+<h1 align="center">👋 ¡Hola! Soy David Castro Soriano</h1>
 
-### 🚀 Full-Stack Developer — Angular · TypeScript · Firebase · Swift · Java
+<p align="center">
+  🚀 Full-Stack Developer · Angular · TypeScript · Firebase · Swift · Java  
+  <br>
+  <em>Siempre aprendiendo. Siempre construyendo.</em>
+</p>
 
----
-
-## 📖 Sobre mí
-
-🎯 Soy un desarrollador de software apasionado por la tecnología, la innovación y el aprendizaje continuo.  
-💡 Me especializo en el desarrollo de aplicaciones web y móviles utilizando tecnologías modernas como **Angular**, **TypeScript**, **Firebase**, **Java** y **Swift**.  
-🌱 Actualmente estoy ampliando mis conocimientos en desarrollo backend con **Spring Boot**.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-**🎨 Frontend**  
-- 🅰️ Angular · 🧠 TypeScript · 🧱 HTML5 · 🎨 CSS3
-
-**🗄️ Backend / Bases de datos**  
-- ☕ Java · ⚙️ Spring Boot (aprendiendo)  
-- 🔥 Firebase (Auth, Firestore, Realtime DB)  
-- 🌐 Node.js · 🐘 PostgreSQL
-
-**📱 iOS Development**  
-- 🍎 Swift · 🧩 SwiftUI · 🧠 MVVM · 🧭 Coordinators · 📦 Modularización
-
-**🧰 Otras habilidades**  
-- 🧬 Git · 🐳 Docker · 🐧 Linux · 🔁 CI/CD  
-- 📚 Sphinx para documentación técnica  
-- 📡 API REST · 🧾 JSON  
-- 🤖 Integración con OpenAI (ChatGPT)
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Proyectos destacados
+## 🧠 Sobre mí
 
-- 🧑‍🎓 **PracticApp** *(iOS – Swift + Firebase + PostgreSQL)*  
-  🔗 Aplicación modular para conectar estudiantes con empresas que ofrecen prácticas.  
-  🔐 Incluye autenticación con Firebase, navegación con coordinadores, inyección de dependencias con Factory, y arquitectura limpia basada en MVVM.  
-  📦 Proyecto real de uso educativo, distribuido mediante AppDistribution.
+Soy un desarrollador creativo, curioso y motivado. Me apasiona construir soluciones que simplifiquen procesos y mejoren la vida de las personas.
 
-- 🗓 **Calendario de citas médicas**  
-  📅 App en Angular y Firebase para reservar y gestionar citas por intervalos de 15 minutos.
-
-- 🌍 **Aplicación de países (RESTCountries)**  
-  🌐 App educativa que consume datos de https://restcountries.com para mostrar información y banderas de todos los países.
-
-- 🧾 **Documentación técnica automatizada**  
-  📚 Uso de Sphinx y Markdown para generar documentación profesional a partir de código Python.
+Actualmente me especializo en el desarrollo de apps con **Angular**, **TypeScript**, **Firebase** y **Swift**, y estoy aprendiendo **Java y Spring Boot** para fortalecer mis habilidades backend.
 
 ---
 
-## 🧠 Filosofía de trabajo
+## 💼 Proyectos Destacados
 
-- 🔁 Comprometido con la **mejora continua** y el aprendizaje constante.
-- 📐 Trabajo con buenas prácticas: modularización, separación de responsabilidades y testing.
-- 🤝 Fomento el trabajo en equipo y la comunicación clara en entornos colaborativos.
+### 🧑‍🎓 PracticApp
+> Aplicación iOS desarrollada en SwiftUI para conectar estudiantes con empresas. Arquitectura modular, navegación por coordinadores, integración con Firebase y backend en PostgreSQL.
+
+### 📅 Calendario de Citas Médicas
+> App Angular + Firebase para la gestión de citas por franjas de 15 minutos.
+
+### 🌍 Países del Mundo
+> Aplicación Angular que consume la API pública de RESTCountries para mostrar detalles interactivos.
+
+### 📚 Automatización de documentación
+> Generación de documentación técnica a partir de Markdown y código Python usando Sphinx.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+| Frontend         | Backend               | iOS                | DevOps & Otros         |
+|------------------|------------------------|--------------------|------------------------|
+| Angular          | Node.js · Spring Boot | Swift · SwiftUI    | Git · Docker · Linux  |
+| TypeScript       | Firebase · PostgreSQL | Coordinators · MVVM| Sphinx · REST · ChatGPT|
 
 ---
 
 ## 📬 Contacto
 
-¿Te gustaría colaborar, comentar un proyecto o simplemente charlar sobre desarrollo?
+📧 castrosorianodavid@gmail.com  
+🤝 ¡Estoy abierto a colaboraciones y nuevos retos!
 
-- ✉️ **Email:** castrosorianodavid@gmail.com  
-- 🚀 ¡Siempre en busca de nuevos retos y oportunidades profesionales!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Apasionado;Construyendo+soluciones+útiles;Siempre+aprendiendo+y+compartiendo" alt="Typing SVG" />
+</p>
 
